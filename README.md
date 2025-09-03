@@ -10,28 +10,6 @@
 - 📱 **Responsive Design** – Works on all devices  
 - ☁️ **Deployment** – Free & live on Render  
 ---
-## 🛠️ Tech Stack
-- **Frontend**: React  
-- **Backend**: Node.js, Express  
-- **Database**: MongoDB  
-- **AI Integration**: Gemini AI  
-- **Authentication**: JWT, bcryptjs  
-- **File Handling**: Multer, Cloudinary  
-- **Speech Processing**: Web Speech API  
-- **Deployment**: Render  
----
-## ⚙️ Project Workflow
-1. Set up **Authentication APIs**  
-2. Built **React Frontend** (SignUp & SignIn Pages)  
-3. Implemented **Authentication Middleware**  
-4. Integrated **Cloudinary & Multer** for image uploads  
-5. Added **Customize Page** + Update Agent APIs  
-6. Built **Home Page** with AI responses (text + gif)  
-7. Integrated **Gemini API** for intelligent replies  
-8. Implemented **Speech Recognition & Speaking Function**  
-9. Optimized Web Speech API  
-10. Final **Deployment on Render** 🚀  
----
 ## 📸 Demo
 👉 [Live Project Here] (https://virtualassistant-07an.onrender.com)  
 
